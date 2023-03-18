@@ -1,0 +1,140 @@
+baseURL = "https://pythoncoruna.github.io/"
+languageCode = "gl_gl"
+DefaultContentLanguage = "gl"
+title = "Python Coruña"
+buildFuture = true
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
+
+[params]
+title = "Python Coruña"
+author = "Python Coruña"
+description = "Comunidade local de Python"
+profilePicture = "img/logo_python_coruna.svg"
+favicon = "favicons/"
+# profilePicture = "img/logotipo_python_coruna.svg"
+doNotLoadAnimations = true
+singleDateFormat = "Mon, 02 Jan, 2006"
+indexDateFormat = "Mon, 02 Jan, 2006"
+listDateFormat = "02 Jan"
+#Adjusting the Sidebar/Content Ratio
+contentratio = 0.65
+
+customCss = ["css/custom.css"]
+
+[[params.socialIcons]]
+icon = "fab fa-telegram"
+title = "Telegram"
+url = "https://t.me/pythoncoruna"
+
+[[params.socialIcons]]
+icon = "fab fa-meetup"
+title = "Meetup"
+url = "https://www.meetup.com/python-a-coruna/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/pythoncoruna"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/pythoncoruna"
+
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.gal/@PythonCoruna"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/groups/9259668/"
+
+
+# Language config
+[Languages]
+  [Languages.gl]
+  contentDir = "content/gl"
+  title = "Python Coruña"
+  weight = 1
+  LanguageName = "Galego"
+    [[Languages.gl.menu.main]]
+      name = "Home"
+      weight = 100
+      identifier = "home"
+      url = "/"
+    [[Languages.gl.menu.main]]
+      name = "Xuntanzas"
+      weight = 200
+      identifier = "meetings"
+      url = "/meetings/"
+    [[Languages.gl.menu.main]]
+      name = "Sobre nós"
+      weight = 300
+      identifier = "about-us"
+      url = "/about-us/"
+
+  [Languages.es]
+  contentDir = "content/es"
+  title = "Python Coruña"
+  weight = 2
+  LanguageName = "Español"
+    [[Languages.es.menu.main]]
+      name = "Home"
+      weight = 100
+      identifier = "home"
+      url = "/es/"
+    [[Languages.es.menu.main]]
+      name = "Quedadas"
+      weight = 200
+      identifier = "meetings"
+      url = "/es/meetings/"
+    [[Languages.es.menu.main]]
+      name = "Sobre nosotros"
+      weight = 300
+      identifier = "about-us"
+      url = "/es/about-us/"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
