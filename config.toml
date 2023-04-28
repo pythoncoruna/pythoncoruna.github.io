@@ -31,6 +31,7 @@ localizedDates = false
 title = "Python Coruña"
 author = "Python Coruña"
 description = "Comunidade local de Python"
+codeOfConduct = "/code-of-conduct/"
 profilePicture = "img/logo_python_coruna.svg"
 favicon = "favicons/"
 # profilePicture = "img/logotipo_python_coruna.svg"
