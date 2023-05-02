@@ -6,11 +6,14 @@ draft: false
 ---
 With regard to COVID-19 safety measures:
 
-Firstly, be aware that right now at Spain is not compulsory to wear mask (except for hospitals, pharmacies and health-related centers), given that a great percentage of the population has been vaccinated so that the herd immunity could be guaranteed.
+Firstly, be aware that, at the moment of this writing, at Spain is not compulsory to wear mask (except for hospitals, pharmacies and health-related centers), given that a great percentage of the population has been vaccinated so that the herd immunity could be guaranteed.
 
 Anyway, to make all in-person attendees feel safe, we ask everyone to be fully vaccinated or recovered (2G). Please refrain from coming to the event if you feel unwell, we try to make our content also available online, either live or as a recording after the event.
+
 Kindly note that not all participants will be wearing masks. If you are compromised by this, please let us know, and we will ask folks to respect it upon arrival, but we can’t guarantee everyone will follow the recommendation. Also, folks do remove masks for eating and drinking.
 
-Also, we take this seriously and this organization is committed to contact all the attendees, may one of them reports a COVID-19 contagion
+Also, we take this seriously and this organization is committed to contact all the attendees, may one of them reports a COVID-19 contagion.
+
+To the best of our ability, we will do our best for everybody to be provided with hydrogel and masks if anybody were to request for them.
 
 Please let us know if you have other ideas for how we can help you attend in-person events

@@ -8,7 +8,7 @@ Welcome to the local Python community in A Coruña
 
 We are a community of people passionate about Python programming language and all its usages in several areas, from web and mobile development to data science and machine learning.
 
-Our goal is to bring together people interestede about Python programming in A Coruña city and surroundings in order to shre knowledge, experiences and being able to collaborate on interesting projects.
+Our goal is to bring together people interested about Python programming in A Coruña city and surroundings in order to share knowledge, experiences and being able to collaborate on interesting projects.
 
 We organize periodic meetings in which we discuss several issues related to Python, from the last features brought to the language to projects and interesting apps. We also offer expert programmers the chance to share their experiences and knowledge with the community.
 
