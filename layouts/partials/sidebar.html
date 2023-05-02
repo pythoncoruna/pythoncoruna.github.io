@@ -24,6 +24,17 @@
       <div class="sidebar__introduction-description">
         <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
       </div>
+      <div>
+        {{ $myPage := where .Site.RegularPages "Params.identifier" "==" "code-of-conduct" }}
+        {{ with index $myPage 0 }}
+          <strong>
+            <a 
+            href="{{ .RelPermalink }}"
+            aria-label="{{ .Title }}"
+            title="{{ .Title }}">{{ .Title }}</a>
+          </strong>
+        {{ end }}
+    </div>
     </div>
     <ul class="sidebar__list">
       {{ range $item := .Site.Params.socialIcons }}
@@ -40,12 +51,6 @@
         </li>
       {{ end }}
     </ul>
-    <div class="sidebar__introduction">
-      <div class="sidebar__introduction-description">
-        <p><a href="{{ .Site.Params.codeOfConduct }}">Código de conducta</a></p>
-      </div>
-    </div>
-    
   </div>
   {{- partial "footer.html" (dict "context" . "footerClassModifier" "sidebar") -}}
 </div>
