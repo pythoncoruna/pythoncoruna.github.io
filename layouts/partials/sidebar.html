@@ -51,6 +51,13 @@
         </li>
       {{ end }}
     </ul>
+    <div class="sidebar__introduction">
+      <div class="sidebar__introduction-description">
+        <p><a href="{{ .Site.Params.codeOfConduct }}">Código de conducta</a></p>
+        <p><a href="{{ .Site.Params.covid19Code }}">Código Covid19</a></p>
+      </div>
+    </div>
+    
   </div>
   {{- partial "footer.html" (dict "context" . "footerClassModifier" "sidebar") -}}
 </div>
