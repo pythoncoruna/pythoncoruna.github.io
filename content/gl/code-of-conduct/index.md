@@ -10,7 +10,7 @@ Ao participar na comunidade de **Python Coruña**, comprométeste a promover unh
 
 Este Código de Conduta detalla cales son as condutas que se esperan, cales se rexeita e cales son os mecanismos existentes para axudar a unha persoa que está a ser sometida a un comportamento inadecuado.
 
-## Por qué un código de conduta?
+## Por que un código de conduta?
 Seguindo con Python zen, explícito mellor que implícito. Explica o que se espera do medio ambiente en calquera evento de **Python Coruña**:
 
 - Axudar a que máis xente saiba que son benvidos.
@@ -21,7 +21,7 @@ Seguindo con Python zen, explícito mellor que implícito. Explica o que se espe
 Este código de conduta é aplicable a todas as persoas que participen en espazos da comunidade **Python Coruña**, xa sexa en liña ou presencialmente. Tamén se aplica aos espazos públicos onde unha persoa está representando á comunidade. Exemplos destes últimos inclúen o uso da conta de correo electrónico oficial, publicacións a través de redes sociais oficiais ou presentacións con persoas designadas en eventos en liña ou fóra de liña.
 
 ## Os nosos estándares
-Exemplos de comportamentos que contribúen a crear un ambiente positivo pra a nosa comunidade:
+Exemplos de comportamentos que contribúen a crear un ambiente positivo para a nosa comunidade:
 
 - Mostrar empatía e bondade coas demais persoas. Non insultes nin humilles aos demais asistentes. Lembra que as bromas sexistas, racistas ou discriminatorias non son apropiadas. Nunca o son.
 - Respectar as diferentes opinións, puntos de vista e experiencias
@@ -43,7 +43,7 @@ Exemplos de comportamento inaceptable:
 Acoso significa comentarios ofensivos relacionados co xénero, a orientación sexual, a discapacidade, o aspecto físico, o tamaño corporal, a etnia ou a relixión, a pornografía en espazos públicos, a intimidación deliberada, o acoso, a persecución, fotografías ou gravacións indesexadas, a interrupción constante de charlas ou outros eventos, inadecuados, contacto físico e atención sexual non desexada.
 
 ## Cumprimento
-Correspóndelle á administración comunitaria aclarar e facer cumprir este código de conduta; No caso de que se determine un comportamento inadecuado, adoptará as medidas que considere oportunas. Estas van dende esixir o cesamento da conduta, ata a expulsión dunha persoa dun evento ou da Comunidade, sen dereito a reingresar. A administración da comunidade terá o dereito e a responsabilidade de eliminar, editar ou rexeitar mensaxes, comentarios, commits, código, edicións de páxinas wiki, tickets e outras contribucións que non se axusten a este código de conduta, e comunicará os motivos pra as suas decisións de moderación cando proceda.
+Correspóndelle á administración comunitaria aclarar e facer cumprir este código de conduta; No caso de que se determine un comportamento inadecuado, adoptará as medidas que considere oportunas. Estas van dende esixir o cesamento da conduta, ata a expulsión dunha persoa dun evento ou da Comunidade, sen dereito a reingresar. A administración da comunidade terá o dereito e a responsabilidade de eliminar, editar ou rexeitar mensaxes, comentarios, commits, código, edicións de páxinas wiki, tickets e outras contribucións que non se axusten a este código de conduta, e comunicará os motivos para as suas decisións de moderación cando proceda.
 
 ## Información de queixa e contacto
 Os casos de comportamento abusivo, de acoso ou doutro xeito inaceptable pódense informar aos xestores da comunidade responsables do cumprimento:
