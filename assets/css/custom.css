@@ -2,3 +2,7 @@
     width: 400px;
     height: 400px;
 }
+.sidebar__extra-links{
+    top: 40%;
+    text-align: center;
+}

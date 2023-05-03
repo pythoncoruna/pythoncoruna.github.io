@@ -31,6 +31,8 @@ localizedDates = false
 title = "Python Coruña"
 author = "Python Coruña"
 description = "Comunidade local de Python"
+codeOfConduct = "/code-of-conduct/"
+covid19Code = "/covid19-code/"
 profilePicture = "img/logo_python_coruna.svg"
 favicon = "favicons/"
 # profilePicture = "img/logotipo_python_coruna.svg"
@@ -100,6 +102,7 @@ url = "https://www.linkedin.com/groups/9259668/"
   [Languages.es]
   contentDir = "content/es"
   title = "Python Coruña"
+  description = "Comunidad local de Python"
   weight = 2
   LanguageName = "Español"
     [[Languages.es.menu.main]]
@@ -117,6 +120,28 @@ url = "https://www.linkedin.com/groups/9259668/"
       weight = 300
       identifier = "about-us"
       url = "/es/about-us/"
+
+  [Languages.en]
+  contentDir = "content/en"
+  title = "Python Coruña"
+  description = "Local Python community"
+  weight = 3
+  LanguageName = "English"
+    [[Languages.en.menu.main]]
+      name = "Home"
+      weight = 100
+      identifier = "home"
+      url = "/en/"
+    [[Languages.en.menu.main]]
+      name = "Meetings"
+      weight = 200
+      identifier = "meetings"
+      url = "/en/meetings/"
+    [[Languages.en.menu.main]]
+      name = "About us"
+      weight = 300
+      identifier = "about-us"
+      url = "/en/about-us/"
 
 [markup]
     [markup.goldmark]
