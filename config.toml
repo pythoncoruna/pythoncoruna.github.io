@@ -98,11 +98,12 @@ url = "https://www.linkedin.com/groups/9259668/"
       weight = 300
       identifier = "about-us"
       url = "/about-us/"
+  [Languages.gl.params]
+  description = "Comunidade local de Python"
 
   [Languages.es]
   contentDir = "content/es"
   title = "Python Coruña"
-  description = "Comunidad local de Python"
   weight = 2
   LanguageName = "Español"
     [[Languages.es.menu.main]]
@@ -120,11 +121,12 @@ url = "https://www.linkedin.com/groups/9259668/"
       weight = 300
       identifier = "about-us"
       url = "/es/about-us/"
+  [Languages.es.params]
+  description = "Comunidad local de Python"
 
   [Languages.en]
   contentDir = "content/en"
   title = "Python Coruña"
-  description = "Local Python community"
   weight = 3
   LanguageName = "English"
     [[Languages.en.menu.main]]
@@ -142,6 +144,8 @@ url = "https://www.linkedin.com/groups/9259668/"
       weight = 300
       identifier = "about-us"
       url = "/en/about-us/"
+  [Languages.en.params]
+  description = "Local Python community"
 
 [markup]
     [markup.goldmark]
