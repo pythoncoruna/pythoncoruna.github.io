@@ -29,4 +29,5 @@ atoparás algo interesante e útil para aprender e compartir.
 
 ### Apoiada por
 
-[<span style="display: inline-block;width: 150px;height: 150px;margin: 0;background-image: url(https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg);background-size: cover;"></span>](https://www.jetbrains.com/pycharm/download/)
+[<span class="psf-background"><span class="psf"></span></span>](https://www.python.org/psf-landing/ "Python software foundation")
+[<span class="jet-brains"></span>](https://www.jetbrains.com/pycharm/download/ "Jet Brains")
