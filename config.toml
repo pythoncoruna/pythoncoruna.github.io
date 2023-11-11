@@ -20,7 +20,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true   
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
@@ -71,6 +71,11 @@ title = "Mastodon"
 url = "https://mastodon.gal/@PythonCoruna"
 
 [[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/@PythonCoruna"
+
+[[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/groups/9259668/"
@@ -78,92 +83,92 @@ url = "https://www.linkedin.com/groups/9259668/"
 
 # Language config
 [Languages]
-  [Languages.gl]
-  contentDir = "content/gl"
-  title = "Python Coruña"
-  weight = 1
-  LanguageName = "Galego"
-    [[Languages.gl.menu.main]]
-      name = "Home"
-      weight = 100
-      identifier = "home"
-      url = "/"
-    [[Languages.gl.menu.main]]
-      name = "Xuntanzas"
-      weight = 200
-      identifier = "meetings"
-      url = "/meetings/"
-    [[Languages.gl.menu.main]]
-      name = "Sobre nós"
-      weight = 300
-      identifier = "about-us"
-      url = "/about-us/"
-  [Languages.gl.params]
-  description = "Comunidade local de Python"
+[Languages.gl]
+contentDir = "content/gl"
+title = "Python Coruña"
+weight = 1
+LanguageName = "Galego"
+[[Languages.gl.menu.main]]
+name = "Home"
+weight = 100
+identifier = "home"
+url = "/"
+[[Languages.gl.menu.main]]
+name = "Xuntanzas"
+weight = 200
+identifier = "meetings"
+url = "/meetings/"
+[[Languages.gl.menu.main]]
+name = "Sobre nós"
+weight = 300
+identifier = "about-us"
+url = "/about-us/"
+[Languages.gl.params]
+description = "Comunidade local de Python"
 
-  [Languages.es]
-  contentDir = "content/es"
-  title = "Python Coruña"
-  weight = 2
-  LanguageName = "Español"
-    [[Languages.es.menu.main]]
-      name = "Home"
-      weight = 100
-      identifier = "home"
-      url = "/es/"
-    [[Languages.es.menu.main]]
-      name = "Quedadas"
-      weight = 200
-      identifier = "meetings"
-      url = "/es/meetings/"
-    [[Languages.es.menu.main]]
-      name = "Sobre nosotros"
-      weight = 300
-      identifier = "about-us"
-      url = "/es/about-us/"
-  [Languages.es.params]
-  description = "Comunidad local de Python"
+[Languages.es]
+contentDir = "content/es"
+title = "Python Coruña"
+weight = 2
+LanguageName = "Español"
+[[Languages.es.menu.main]]
+name = "Home"
+weight = 100
+identifier = "home"
+url = "/es/"
+[[Languages.es.menu.main]]
+name = "Quedadas"
+weight = 200
+identifier = "meetings"
+url = "/es/meetings/"
+[[Languages.es.menu.main]]
+name = "Sobre nosotros"
+weight = 300
+identifier = "about-us"
+url = "/es/about-us/"
+[Languages.es.params]
+description = "Comunidad local de Python"
 
-  [Languages.en]
-  contentDir = "content/en"
-  title = "Python Coruña"
-  weight = 3
-  LanguageName = "English"
-    [[Languages.en.menu.main]]
-      name = "Home"
-      weight = 100
-      identifier = "home"
-      url = "/en/"
-    [[Languages.en.menu.main]]
-      name = "Meetings"
-      weight = 200
-      identifier = "meetings"
-      url = "/en/meetings/"
-    [[Languages.en.menu.main]]
-      name = "About us"
-      weight = 300
-      identifier = "about-us"
-      url = "/en/about-us/"
-  [Languages.en.params]
-  description = "Local Python community"
+[Languages.en]
+contentDir = "content/en"
+title = "Python Coruña"
+weight = 3
+LanguageName = "English"
+[[Languages.en.menu.main]]
+name = "Home"
+weight = 100
+identifier = "home"
+url = "/en/"
+[[Languages.en.menu.main]]
+name = "Meetings"
+weight = 200
+identifier = "meetings"
+url = "/en/meetings/"
+[[Languages.en.menu.main]]
+name = "About us"
+weight = 300
+identifier = "about-us"
+url = "/en/about-us/"
+[Languages.en.params]
+description = "Local Python community"
 
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-        unsafe=true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [taxonomies]
-    category = "categories"
-    series = "series"
-    tag = "tags"
+category = "categories"
+series = "series"
+tag = "tags"
 
 [related]
-  includeNewer = true
-  threshold = 80
-  toLower = true
+includeNewer = true
+threshold = 80
+toLower = true
 [[related.indices]]
-  name = 'keywords'
-  weight = 100
+name = 'keywords'
+weight = 100
 [[related.indices]]
-  name = 'tags'
-  weight = 80
+name = 'tags'
+weight = 80
