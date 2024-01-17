@@ -88,7 +88,7 @@ Se sintes que algún dos citados comportamentos tivo lugar ou aprezas que algué
 
 - Se é un evento presencial, póñase en contacto directamente cos organizadores do evento.
   Probablemente publicaron un código de conduta específico do evento con instrucións sobre a quen
-  acudir; proporcionarán un espazo seguro para axudarche.
+  acudir; proporcionarán un espazo seguro para axudar á persoa afectada.
 - Se é un espazo en liña, póñase en contacto cos moderadores dese espazo.
     - En Telegram, á persoa propietaria do grupo ou outras administradoras:
       - @Yisus1982
