@@ -80,21 +80,28 @@ responsabilidad de eliminar, editar o rechazar mensajes, comentarios, commits, c
 páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y
 comunicará las razones para sus decisiones de moderación cuando sea apropiado.
 
-## Denuncia e información de contacto
+## Protocolo de quejas y denuncias
 
 Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a
-las personas administradoras de la comunidad responsables del cumplimiento:
+las personas administradoras de la comunidad responsables del cumplimiento.
+
+Si sientes que alguno de los citados comportamientos tuvo lugar o aprecias que alguien cometió un acto de ofensa, puedes tomar el siguiente curso de acción:
 
 - Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del
   evento. Es muy probable que hayan publicado un código de conducta específico del evento con
-  instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
+  instrucciones de a quién acudir; proporcionarán un espacio seguro para ayudar a la persona perjudicada.
 - Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.
-    - En Telegram, a la persona propietaria del grupo u otras administradoras.
+    - En Telegram, a la persona propietaria del grupo u otras administradoras:
+      - @Yisus1982
+      - @madtyn
+      - @soulcodex
+      - @braisarias
+      - @Theo_CP
     - Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en
       pythoncoruna@es.python.org.
 
-Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la
-seguridad de quienes denuncien incidentes.
+Todas las personas administradoras de la comunidad están obligadas a dar atención seria y respetar la privacidad y 
+seguridad de quienes denuncien o sufran incidentes, así como conservar su anonimato.
 
 ## Atribución
 
