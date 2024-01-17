@@ -74,21 +74,28 @@ edit, or reject messages, comments, commits, code, wiki page edits, tickets, and
 that do not align with this code of conduct, and will communicate the reasons for its moderation
 decisions when appropriate.
 
-## Reporting and Contact Information
+## CoC violation protocol
 
 Cases of abusive, harassing, or otherwise unacceptable behavior can be reported to the community
-administrators who are responsible for enforcement:
+administrators who are responsible for enforcement.
+
+If you feel that some of the above described behaviours have happened or you feel that any offense has been made, you can take the next course of action:
 
 - If it is an in-person event, you may contact the event organizers directly. They likely have
   published a specific code of conduct for the event with instructions on whom to contact; they will
-  provide you with a safe space to assist you.
+  provide you with a safe space to assist the affected person.
 - If it is an online space, contact the moderators of that space.
-    - In Telegram, contact the group owner or other administrators.
+    - In Telegram, contact the group owner or other administrators:
+      - @Yisus1982
+      - @madtyn
+      - @soulcodex
+      - @braisarias
+      - @Theo_CP
     - For other spaces or alternatively, contact the Board of Directors at
       pythoncoruna@es.python.org.
 
-All community administrators are required to respect the privacy and security of those who report
-incidents.
+All community administrators are required to give serious attention and respect the privacy and security of those who report and suffer
+incidents, as well as keeping them anonymous.
 
 ## Attribution
 
