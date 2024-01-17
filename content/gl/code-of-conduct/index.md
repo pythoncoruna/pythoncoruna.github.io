@@ -84,7 +84,7 @@ para as suas decisións de moderación cando proceda.
 Os casos de comportamento abusivo, de acoso ou doutro xeito inaceptable pódense informar aos
 xestores da comunidade responsables do cumprimento.
 
-Se sintes que algún dos citados comportamentos tivo lugar ou sintes que alguén cometeu un acto de ofensa, podes tomar o seguinte curso de acción:
+Se sintes que algún dos citados comportamentos tivo lugar ou aprezas que alguén cometeu un acto de ofensa, podes tomar o seguinte curso de acción:
 
 - Se é un evento presencial, póñase en contacto directamente cos organizadores do evento.
   Probablemente publicaron un código de conduta específico do evento con instrucións sobre a quen
@@ -99,8 +99,8 @@ Se sintes que algún dos citados comportamentos tivo lugar ou sintes que alguén
     - Para outros espazos ou alternativamente, póñase en contacto coa Xunta Directiva en
       pythoncoruna@es.python.org.
 
-Todos os administradores da comunidade están obrigados a dar atención seria e respectar a privacidade e a seguridade dos
-que informan de incidentes, así como conservar o seu anonimato
+Todos os administradores da comunidade están obrigados a dar atención seria e respectar a privacidade e seguridade dos
+que informan ou sofren incidentes, así como conservar o seu anonimato
 
 ## Atribución
 
