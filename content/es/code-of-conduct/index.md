@@ -85,7 +85,7 @@ comunicará las razones para sus decisiones de moderación cuando sea apropiado.
 Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a
 las personas administradoras de la comunidad responsables del cumplimiento.
 
-Si sientes que alguno de los citados comportamientos tuvo lugar o aprecias que alguien cometió un acto de ofensa, puedes tomar el siguiente curso de acción:
+Si sientes que alguno de los citados comportamientos tuvo lugar o aprecias que alguien cometió un acto de ofensa, te animamos a tomar el siguiente curso de acción lo antes posible:
 
 - Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del
   evento. Es muy probable que hayan publicado un código de conducta específico del evento con
