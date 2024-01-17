@@ -79,7 +79,7 @@ decisions when appropriate.
 Cases of abusive, harassing, or otherwise unacceptable behavior can be reported to the community
 administrators who are responsible for enforcement.
 
-If you feel that some of the above described behaviours have happened or you feel that any offense has been made, you can take the next course of action:
+If you notice that any of the above described behaviours have occurred or you feel that any offense has been made, we incourage you to take the following course of action as soon as possible:
 
 - If it is an in-person event, you may contact the event organizers directly. They likely have
   published a specific code of conduct for the event with instructions on whom to contact; they will
