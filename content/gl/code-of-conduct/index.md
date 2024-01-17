@@ -84,7 +84,7 @@ para as suas decisións de moderación cando proceda.
 Os casos de comportamento abusivo, de acoso ou doutro xeito inaceptable pódense informar aos
 xestores da comunidade responsables do cumprimento.
 
-Se sintes que algún dos citados comportamentos tivo lugar ou aprezas que alguén cometeu un acto de ofensa, podes tomar o seguinte curso de acción:
+Se sintes que algún dos citados comportamentos tivo lugar ou aprezas que alguén cometeu un acto de ofensa, te animamos a tomar o seguinte curso de acción tan axiña como sexa posible:
 
 - Se é un evento presencial, póñase en contacto directamente cos organizadores do evento.
   Probablemente publicaron un código de conduta específico do evento con instrucións sobre a quen
