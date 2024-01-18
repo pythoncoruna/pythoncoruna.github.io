@@ -79,21 +79,28 @@ eliminar, editar ou rexeitar mensaxes, comentarios, commits, código, edicións 
 tickets e outras contribucións que non se axusten a este código de conduta, e comunicará os motivos
 para as suas decisións de moderación cando proceda.
 
-## Información de queixa e contacto
+## Protocolo de queixas e denuncias
 
 Os casos de comportamento abusivo, de acoso ou doutro xeito inaceptable pódense informar aos
-xestores da comunidade responsables do cumprimento:
+xestores da comunidade responsables do cumprimento.
+
+Se sintes que algún dos citados comportamentos tivo lugar ou aprezas que alguén cometeu un acto de ofensa, animamoste a tomar o seguinte curso de acción tan axiña como sexa posible:
 
 - Se é un evento presencial, póñase en contacto directamente cos organizadores do evento.
   Probablemente publicaron un código de conduta específico do evento con instrucións sobre a quen
-  acudir; proporcionaránche un espazo seguro para axudarche.
+  acudir; proporcionarán un espazo seguro para axudar á persoa afectada.
 - Se é un espazo en liña, póñase en contacto cos moderadores dese espazo.
-    - En Telegram, á persoa propietaria do grupo ou outras administradoras.
+    - En Telegram, á persoa propietaria do grupo ou outras administradoras:
+      - @Yisus1982
+      - @madtyn
+      - @soulcodex
+      - @braisarias
+      - @Theo_CP
     - Para outros espazos ou alternativamente, póñase en contacto coa Xunta Directiva en
       pythoncoruna@es.python.org.
 
-Todos os administradores da comunidade están obrigados a respectar a privacidade e a seguridade dos
-que informan de incidentes.
+Todos os administradores da comunidade están obrigados a dar atención seria e respectar a privacidade e seguridade dos
+que informan ou sofren incidentes, así como conservar o seu anonimato
 
 ## Atribución
 
