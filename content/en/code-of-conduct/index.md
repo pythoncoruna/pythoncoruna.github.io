@@ -88,9 +88,10 @@ If you notice that any of the above described behaviours have occurred or you fe
     - In Telegram, contact the group owner or other administrators:
       - @Yisus1982
       - @madtyn
-      - @soulcodex
       - @braisarias
-      - @Theo_CP
+      - @arivasloureiro
+      - @arkhej
+      - @criscorreaseg
     - For other spaces or alternatively, contact the Board of Directors at
       pythoncoruna@es.python.org.
 

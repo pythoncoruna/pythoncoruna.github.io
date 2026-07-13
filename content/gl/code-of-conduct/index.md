@@ -93,9 +93,10 @@ Se sintes que algún dos citados comportamentos tivo lugar ou aprezas que algué
     - En Telegram, á persoa propietaria do grupo ou outras administradoras:
       - @Yisus1982
       - @madtyn
-      - @soulcodex
       - @braisarias
-      - @Theo_CP
+      - @arivasloureiro
+      - @arkhej
+      - @criscorreaseg
     - Para outros espazos ou alternativamente, póñase en contacto coa Xunta Directiva en
       pythoncoruna@es.python.org.
 

@@ -94,9 +94,10 @@ Si sientes que alguno de los citados comportamientos tuvo lugar o aprecias que a
     - En Telegram, a la persona propietaria del grupo u otras administradoras:
       - @Yisus1982
       - @madtyn
-      - @soulcodex
       - @braisarias
-      - @Theo_CP
+      - @arivasloureiro
+      - @arkhej
+      - @criscorreaseg
     - Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en
       pythoncoruna@es.python.org.
 
