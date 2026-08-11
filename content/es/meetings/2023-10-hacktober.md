@@ -2,11 +2,9 @@
 date: 2023-10-21T10:00:00-21:30
 description: "Hacktoberfest 2023"
 featured_image: ""
-tags: [ "Hacktoberfest" ]
+tags: [ "Hacktoberfest", "Hackaton" ]
 title: "Hacktoberfest 2023"
 ---
-
-# Hacktoberfest 2023
 
 ## ¿Qué es el Hacktoberfest?
 
@@ -15,7 +13,7 @@ Con HacktoberfestES queremos adaptar el evento global a la comunidad de habla hi
 
 ## ¿Quién puede participar?
 
-Todos los niveles y lenguajes de programación son bienvenidos. No pasa nada si eres primerizo/a: este evento existe precisamente para ayudar a la gente novata a salvar la barrera de las primeras ontribuciones.
+Todos los niveles y lenguajes de programación son bienvenidos. No pasa nada si eres primerizo/a: este evento existe precisamente para ayudar a la gente novata a salvar la barrera de las primeras contribuciones.
 
 Podéis ver más información sobre el HacktoberfestES en este enlace: [https://hacktoberfestes.dev/](https://hacktoberfestes.dev/)
 
@@ -33,7 +31,7 @@ Podéis ver más información sobre el HacktoberfestES en este enlace: [https://
 | 19:00-21:00 | Realización proyectos propuestos  |
 | 21:00-21:30 | Despedida y cierre de evento      |
 
-Agradecemos a todos los participantes que se unieron a nuestras charlas y han compartido su entusiasmo
+Agradecemos a todos los participantes que se unieron a este evento y han compartido su entusiasmo
 por Python. Fue una oportunidad única para conectar con otros entusiastas de la comunidad y aprender programando.
 Gracias a todos por formar parte de esta jornada inolvidable! Esperamos veros en futuros eventos y
 seguir enriqueciendo nuestra comunidad Python.
