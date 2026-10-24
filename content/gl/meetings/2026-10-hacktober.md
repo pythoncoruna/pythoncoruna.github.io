@@ -41,9 +41,9 @@ Podedes ver máis información sobre o HacktoberfestES nesta ligazón: [https://
 
 Na edición deste ano contamos con 9 proxectos que se estiveron desenvolvendo durante todo o día e chegaron a realizar a presentación dos mesmos.
 
-| Proxecto                    | Descrición                       | Repositorio |
+| Proxecto                    | Descrición                       | Ligazón |
 |-----------------------------|----------------------------------|-------------|
-| Elixe a tua propia aventura | Proxecto web, baseado nun arquetipo que tamén se desenvolveu no Hacktoberfest, no cal se poden xerar historias nas que a lectora pode tomar decisións sobre o relato, polo que cada lectora escolle a súa propia aventura. | [https://github.com/p-carrillo/template_box](template_box)
+| Elixe a tua propia aventura | Proxecto web, baseado nun arquetipo que tamén se desenvolveu no Hacktoberfest, no cal se poden xerar historias nas que a lectora pode tomar decisións sobre o relato, polo que cada lectora escolle a súa propia aventura. | [https://github.com/p-carrillo/template_box](template_box) |
 | Q-Captain                   | Trátase dun proxecto de aprendizaxe reforzado, na cal se simula un barco autónomo vai navegado por un escenario e esquivando obstáculos seguindo modelos nos que o propio barco toma as decisións sobre que traxectorias tomar. | [https://github.com/mateo-diaza/autonomous-boat-rl](autonomous-boat-rl) |
 | Fit-it                      | Proxecto no que se desenvolveu unha ferramenta que actua como proxy entre o usuario e unha aplicación web permitindo personalizarlas mediante o uso da IA para incorporar novas funcionalidades ás aplicacións. | [https://github.com/Martinhdeez/fit-it](Fit-it) |
 | SmartLoot                   | Producto que tes na casa e queres vender, un Trátase dunha aplicación asistente de vendas mediante a cal se poden realizar comparativas en aplicacións de terceiros e axuda no proceso de venda | [https://github.com/adrianbndev/SmartLoot](SmartLoot) |
