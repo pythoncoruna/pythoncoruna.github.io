@@ -27,7 +27,7 @@ Podedes ver máis información sobre o HacktoberfestES nesta ligazón: [https://
 
 | Hora        | Actividade                       |
 |-------------|----------------------------------|
-| 10:00-10:30 | Charla introdutoria, [https://pythoncoruna.github.io/resources/2026/10/Hacktoberfest-2026-slides.pdf](slides) |
+| 10:00-10:30 | Charla introdutoria, [slides](https://pythoncoruna.github.io/resources/2026/10/Hacktoberfest-2026-slides.pdf) |
 | 10:30-11:00 | Explicación proxectos propostos  |
 | 11:00-12:00 | Coffee Break                     |
 | 12:00-14:00 | Realización proxectos propostos  |
@@ -43,14 +43,14 @@ Na edición deste ano contamos con 9 proxectos que se estiveron desenvolvendo du
 
 | Proxecto                    | Descrición                       | Ligazón |
 |-----------------------------|----------------------------------|-------------|
-| Elixe a tua propia aventura | Proxecto web, baseado nun arquetipo que tamén se desenvolveu no Hacktoberfest, no cal se poden xerar historias nas que a lectora pode tomar decisións sobre o relato, polo que cada lectora escolle a súa propia aventura. | [https://github.com/p-carrillo/template_box](template_box) |
-| Q-Captain                   | Trátase dun proxecto de aprendizaxe reforzado, na cal se simula un barco autónomo vai navegado por un escenario e esquivando obstáculos seguindo modelos nos que o propio barco toma as decisións sobre que traxectorias tomar. | [https://github.com/mateo-diaza/autonomous-boat-rl](autonomous-boat-rl) |
-| Fit-it                      | Proxecto no que se desenvolveu unha ferramenta que actua como proxy entre o usuario e unha aplicación web permitindo personalizarlas mediante o uso da IA para incorporar novas funcionalidades ás aplicacións. | [https://github.com/Martinhdeez/fit-it](Fit-it) |
-| SmartLoot                   | Producto que tes na casa e queres vender, un Trátase dunha aplicación asistente de vendas mediante a cal se poden realizar comparativas en aplicacións de terceiros e axuda no proceso de venda | [https://github.com/adrianbndev/SmartLoot](SmartLoot) |
-| Kiwu                        | Aplicación web de xestión mediante a cal se pode realizar comandas e pedidos dunha cafetería que conta con varios roles (quiosco, encargado de tenda, cliente) | [https://github.com/raulmouzo/kiwu-club](kiwu-club) |
-| OutsIDE                     | Trátase dun IDE (Entorno de Desenvolvemento Integrado) web que permite desenvolver proxectos de software madiante calquera tipo de dispositivo que conte con conectividade a Internet, teléfono móbil, tableta ou computadora. | [https://github.com/Mouzotech](Usuario de GitHub de Iván Mouzo) |
-| Chatbot Obrador Mel         | Un asistente chatbot con IA local para un obradoiro de pastelería, mediante esta ferramenta pódense lanzar peticións a un obradro, como solicitar pedidos, ver a carta, consultar prezos, ... | Aínda non publicado |
-| Uniroom                     | Unha aplicación de xestión hoteleira que permite coordinar e centralizar varias canles de reserva, plataformas hoteleiras e diferentes formas de contacto externas. Toda esa información recopílase nunha base de datos unificada e poden realizarse consultars e peticións mediante un asistente chatbot. | [https://github.com/cortins-05/PythonCoruna2026](Repositorio) |
+| Elixe a tua propia aventura | Proxecto web, baseado nun arquetipo que tamén se desenvolveu no Hacktoberfest, no cal se poden xerar historias nas que a lectora pode tomar decisións sobre o relato, polo que cada lectora escolle a súa propia aventura. | [template_box+](https://github.com/p-carrillo/template_box) |
+| Q-Captain                   | Trátase dun proxecto de aprendizaxe reforzado, na cal se simula un barco autónomo vai navegado por un escenario e esquivando obstáculos seguindo modelos nos que o propio barco toma as decisións sobre que traxectorias tomar. | [autonomous-boat-rl](https://github.com/mateo-diaza/autonomous-boat-rl) |
+| Fit-it                      | Proxecto no que se desenvolveu unha ferramenta que actua como proxy entre o usuario e unha aplicación web permitindo personalizarlas mediante o uso da IA para incorporar novas funcionalidades ás aplicacións. | [Fit-it](https://github.com/Martinhdeez/fit-it) |
+| SmartLoot                   | Producto que tes na casa e queres vender, un Trátase dunha aplicación asistente de vendas mediante a cal se poden realizar comparativas en aplicacións de terceiros e axuda no proceso de venda | [SmartLoot](https://github.com/adrianbndev/SmartLoot) |
+| Kiwu                        | Aplicación web de xestión mediante a cal se pode realizar comandas e pedidos dunha cafetería que conta con varios roles (quiosco, encargado de tenda, cliente) | [kiwu-club](https://github.com/raulmouzo/kiwu-club) |
+| OutsIDE                     | Trátase dun IDE (Entorno de Desenvolvemento Integrado) web que permite desenvolver proxectos de software madiante calquera tipo de dispositivo que conte con conectividade a Internet, teléfono móbil, tableta ou computadora. | [Usuario de GitHub de Iván Mouzo](https://github.com/Mouzotech) |
+| Chatbot Obrador Mel         | Un asistente chatbot con IA local para un obradoiro de pastelería, mediante esta ferramenta pódense lanzar peticións a un obradro, como solicitar pedidos, ver a carta, consultar prezos, ... | [Usuariode GitHub de Cristian Damil](https://github.com/Criscode2022/) |
+| Uniroom                     | Unha aplicación de xestión hoteleira que permite coordinar e centralizar varias canles de reserva, plataformas hoteleiras e diferentes formas de contacto externas. Toda esa información recopílase nunha base de datos unificada e poden realizarse consultars e peticións mediante un asistente chatbot. | [Repositorio](https://github.com/cortins-05/PythonCoruna2026) |
 
 
 
